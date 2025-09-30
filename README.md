@@ -25,3 +25,4 @@ Vim: Vim on Windows creates annoying temp files. To prevent this and keep my con
 
 - install ps1 script
 - add other needed apps and configs
+- maybe yasb or other tool to show emulated komorebi workspaces?
