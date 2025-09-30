@@ -14,7 +14,7 @@
 ### GENERAL:
 Use the ExplorerPatcher Properties to import the settings: '.\explorerpatcher\\<current_settings>.reg'     
 ### DEV:
-Copy the '.config' folder into your home directory. 'xcopy .\.config\ C:\Users\\<user>\.config\'
+Copy the '.config' folder into your home directory. 'xcopy .\\.config\ C:\Users\\<user>\.config\'
 
 Create Windows PowerShell '$PROFILE' home directory. 'mkdir C:\Users\\<user>\WindowsPowerShell\'
 
