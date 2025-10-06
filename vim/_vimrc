@@ -4,7 +4,8 @@ source $VIMRUNTIME/vimrc_example.vim
 set nobackup
 set nowritebackup
 set noswapfile
-
+set noundofile
+	
 " Use the internal diff if available.
 " Otherwise use the special 'diffexpr' for Windows.
 if &diffopt !~# 'internal'
