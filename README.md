@@ -3,6 +3,7 @@
 ## Applications 
 
 ### GENERAL:
+	- microsoft.powertoys
     - valinet.explorerpatcher
 
 ### DEV:
@@ -12,7 +13,10 @@
 ## Install
 
 ### GENERAL:
-Use the ExplorerPatcher Properties to import the settings: '.\explorerpatcher\\<current_settings>.reg'     
+Use the ExplorerPatcher Properties to import the settings: '.\explorerpatcher\\<current_settings>.reg'
+Install PowerToys and only use the color picker and PowerToys Run.
+Execute 'gpo_update.ps1' to disable default search via gpos. 
+     
 ### DEV:
 Copy the '.config' folder into your home directory. 'xcopy .\\.config\ C:\Users\\<user>\.config\'
 
